@@ -110,7 +110,7 @@ torch_geometric_temporal==0.50.0
 torch_scatter==2.1.2
 torch_sparse==0.6.18
 torchmetrics==1.6.1
-tornado==6.4.2
+tornado==6.5
 tqdm==4.67.1
 traitlets==5.14.3
 triton==3.2.0
